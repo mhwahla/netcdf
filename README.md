@@ -39,3 +39,6 @@ View the Plot: Once the plot is generated, you can view it using an image viewer
 Save the Plot: If you want to save the plot as an image file (e.g., PNG, PDF, or EPS), use CDO to generate the plot in the desired format.
 
 Additional Operations: Depending on your specific analysis, you may perform additional operations with CDO, such as averaging, time series analysis, or data manipulation, before plotting.
+<h3 align="center">
+GIS IS WHAT WE EAT BEAT AND PREACH
+</h3>
